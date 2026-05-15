@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+**/.DS_Store
+
+# LaTeX build files, in case source files are ever temporarily copied here
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
+*.lof
+*.lot
+*.nlo
+*.nls
+*.xdv
+
+# Build directories
+**/out/
+**/build/
+**/aux/
