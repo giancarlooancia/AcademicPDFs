@@ -19,7 +19,7 @@ This repository is intended only as a public collection of compiled documents wi
 
 ### Presentations
 
-- [A Spacetime Approach to Supegravity](https://github.com/giancarlooancia/AcademicPDFs/blob/main/Presentations/A%20Spacetime%20Approach%20to%20Supegravity.pdf)
+- [A Spacetime Approach to Supergravity](https://github.com/giancarlooancia/AcademicPDFs/blob/main/Presentations/A%20Spacetime%20Approach%20to%20Supergravity.pdf)
 - [Circle Compactifications](https://github.com/giancarlooancia/AcademicPDFs/blob/main/Presentations/Circle%20Compactifications-2.pdf)
 
 ### Tutoring
