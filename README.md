@@ -1,18 +1,33 @@
 # Academic PDFs
 
-This repository collects selected PDF documents from my academic work, including notes, presentations, and tutoring material.
+This repository contains selected public PDFs from my academic work: notes, presentations, and tutoring material.
 
-The purpose of this repository is to provide stable public links to the compiled PDF files, while keeping the corresponding LaTeX source files and private study material in a separate private repository.
+This repository is intended only as a public collection of compiled documents with stable links.
 
-## Contents
+## Repository structure
 
-```text
-AcademicPDFs/
-├── Notes/
-│   ├── Circle Compactifications.pdf
-│   └── Gibbons-Hawking-York Boundary Term.pdf
-├── Presentations/
-│   ├── A Spacetime Approach to Supegravity.pdf
-│   └── Circle Compactifications-2.pdf
-└── Tutoring/
-    └── Note Tutorato Fisica Nucleare e Subnucleare.pdf
+- [Notes](https://github.com/giancarlooancia/AcademicPDFs/tree/main/Notes)
+- [Presentations](https://github.com/giancarlooancia/AcademicPDFs/tree/main/Presentations)
+- [Tutoring](https://github.com/giancarlooancia/AcademicPDFs/tree/main/Tutoring)
+
+## PDFs
+
+### Notes
+
+- [Circle Compactifications](https://github.com/giancarlooancia/AcademicPDFs/blob/main/Notes/Circle%20Compactifications.pdf)
+- [Gibbons-Hawking-York Boundary Term](https://github.com/giancarlooancia/AcademicPDFs/blob/main/Notes/Gibbons-Hawking-York%20Boundary%20Term.pdf)
+
+### Presentations
+
+- [A Spacetime Approach to Supegravity](https://github.com/giancarlooancia/AcademicPDFs/blob/main/Presentations/A%20Spacetime%20Approach%20to%20Supegravity.pdf)
+- [Circle Compactifications](https://github.com/giancarlooancia/AcademicPDFs/blob/main/Presentations/Circle%20Compactifications-2.pdf)
+
+### Tutoring
+
+- [Note Tutorato Fisica Nucleare e Subnucleare](https://github.com/giancarlooancia/AcademicPDFs/blob/main/Tutoring/Note%20Tutorato%20Fisica%20Nucleare%20e%20Subnucleare.pdf)
+
+## Author
+
+**Giancarlo Oancia**
+
+Master's student in theoretical physics, interested in quantum field theory, holography, and the AdS/CFT correspondence.
