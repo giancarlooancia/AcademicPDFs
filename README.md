@@ -25,9 +25,3 @@ This repository is intended only as a public collection of compiled documents wi
 ### Tutoring
 
 - [Note Tutorato Fisica Nucleare e Subnucleare](https://github.com/giancarlooancia/AcademicPDFs/blob/main/Tutoring/Note%20Tutorato%20Fisica%20Nucleare%20e%20Subnucleare.pdf)
-
-## Author
-
-**Giancarlo Oancia**
-
-Master's student in theoretical physics, interested in quantum field theory, holography, and the AdS/CFT correspondence.
